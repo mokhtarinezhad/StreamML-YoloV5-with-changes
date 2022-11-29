@@ -1,0 +1,2 @@
+# StreamML-YoloV5-with-changes
+We want to provide YoloV5 (object detection) algorithm as a service, and also we add counting the objects.Another change we made is that we can provide the size of each box around the object, which can be useful in some projects.To be able to run multiple containers in parallel, we need to pass the arguments as a .ini file.These two files are modified versions of files in yolov5 version, which provides what we needed. 
